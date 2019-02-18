@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 try
     Screen('Preference','SkipSyncTests',1);
     rng('shuffle'); %reseeds random number generator
